@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://shamimahsan.tk/index.html</loc>
+    <lastmod>2018-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://shamimahsan.tk/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://shamimahsan.tk/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/branding.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/design.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/90-.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/75-.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/development.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/responsive.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/marketing.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/seo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/twitter_alt.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shamimahsan.tk/images/google.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
